@@ -1,0 +1,30 @@
+{
+  "name": "pw-task",
+  "version": "1.0.0",
+  "description": "QA Engineer — Test Task Role: Middle/Senior QA Engineer Estimated effort: 4–6 hours (spread over up to 5 calendar days) Deliverable: public/private Git repo link (GitHub, GitLab, or Bitbucket) Ground rules",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyakodenko/pw-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyakodenko/pw-task/issues"
+  },
+  "homepage": "https://github.com/dyakodenko/pw-task#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0",
+    "@typescript-eslint/eslint-plugin": "^8.67.0",
+    "@typescript-eslint/parser": "^8.67.0",
+    "eslint": "^10.8.1",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.9.6",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.67.0"
+  }
+}
